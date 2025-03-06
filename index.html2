@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <title>CANDY</title>
+        <link rel="stylesheet" href="style.css2">
+    </head>
+    <body>
+        <header>
+        <h1 class="logo"> CANDY</h1>
+        <nav>
+            <a class="nav-link" href="#main">Головна</a>
+            <a class="nav-link" href="#menu">Меню</a>
+            <a class="nav-link" href="#sale">Акції</a>
+            <a class="nav-link" href="#about">Про нас</a>
+            <a class="nav-link" href="#contacts">Контакти</a>
+        </nav>
+        </header>
+        <main>
+            <section class="info">
+               <div class="info-div">
+                   <h1 id="main">Кондитерська фабрика</h1>
+                   <p>Знаєш що замовити, натискай на кнопку і ми тобі зателефонуємо. Або переходь до меню
+                   </p>
+                <article class="info-butt">
+                    <a class="call-butt" href="#contacts">Дзвінок</a>
+                    <a class="menu-butt" href="#menu">Меню</a>
+                    <a class="previous-page" href="#index1.html">Попередня сторінка</a>
+                    <a class="next-page" href="#index3.html">Наступна сторінка</a>
+                </article>
+               </div>
+               <img class="info-img" src="https://png.pngtree.com/png-clipart/20200226/original/pngtree-cute-candy-and-lollipop-vector-illustration-in-cartoon-style-png-image_5315410.jpg">
+            </section>
+
+
+            <section class="menu">
+                <h2 id="menu">Категорія: Льодяники</h2>
+                <div class="menu-div">
+                    <img class="menu-img" src="https://root.cdntbl.com/img/goods/232b9132-4bdc-11ee-bae1-000c293d1d23/0/img_0.jpg?v=AAAAAAqNaeI">
+                    <article class="menu-info">
+                        <h3>Чупа чупс"Яблучний"</h3>
+                        <p class="menu-text">Асорті карамелі Chupa Chups Best of EU на паличці з найпопулярнішими смаками: полуниця, кола, вершкова карамель, какао-ваніль, полуниця з вершками та яблуко.</p>
+                        <p class="sallary"> С. ціна 8.55 - 11.94 грн. П.</p>
+                        <a class="order" href="#contacts">Замовити</a>
+                    </article>
+                </div>
+                <div class="menu-div">
+                    <img class="menu-img" src="https://12corp.com.ua/image/cache/data/tovari/suvenirka/siedobnie/ledency/novogodnie/ledenci_s_logo_01-750x750.jpg">
+                     <article class="menu-info">
+                        <h3>Новорічні Льодяники</h3>
+                        <p class="menu-text">Новорічні льодяники в формі посоха.</p>
+                        <p class="sallary">21,6 грн </p>
+                        <a class="order" href="#contacts">Замовити</a>
+                    </article>
+                </div>
+                <div class="menu-div">
+                    <img class="menu-img" src="https://cdn.27.ua/sc--media--prod/default/eb/ea/4c/ebea4c45-bc4b-479b-a72c-12c884bd6164.jpg">
+                     <article class="menu-info">
+                        <h3>Льодяники на паличці ROKS Серце-Україна фруктово-ягідні</h3>
+                        <p class="menu-text">Цукор білий кристалічний, патока крохмальна, кислота лимонна, барвник натуральний (куркумін, кармін, мідний хлорофілін), ароматизатори натуральні.</p>
+                        <p class="sallary"> 650 грн</p>
+                        <a class="order" href="#contacts">Замовити</a>
+                    </article>
+                </div>
+            </section>
+            <section class="sale">
+                <h2 id="sale">Акції</h2>
+                <div class="sale-div">
+                    <img class="sale-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVWOoAOlvbRuzVkrR6WVEQ5Z3BG5SwoChGA&s">
+                    <img class="sale-img" src="https://t4.ftcdn.net/jpg/02/08/70/39/360_F_208703906_nUdO5KmiiQrGEXAQihVazt92XiwAGD1t.jpg">
+                    <img class="sale-img" src="https://kovka-dom.com.ua/images/blog/21/50_.png">
+                </div>
+            </section>
+             <section class="about">
+                <h2 id="about">Про нас</h2>
+                <div class="about-div">
+                    <p>Цукерки , які також називають цукерками або льодяниками — це кондитерські вироби , основним інгредієнтом яких є цукор.Категорія,яку також називають цукровими кондитерськими виробами,охоплює будь-які солодкі кондитерські вироби,включаючи шоколад,жувальну гумку та цукерки.Овочі,фрукти або горіхи,глазуровані та покриті цукром,називаються цукатами. 
+</p>
+                </div>
+            </section>
+        </main>
+        <footer>
+           <div class="footer-info">
+               <h4 id="contacts">+38(099) - 55 - 33-456</h4>
+               <p>місто Львів</p>
+               <p>вул. Богдана Хмельницького 14</p>
+               <img class="footer-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuH7c5cLpGehi0b4iQk90fXUzC9p7Ebla13w&s">
+               <img class="footer-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxOMUNq_G-2Tqqcm2l1UYB3WCjRHx6KI2xg&s">
+           </div>
+            <img class="logo-img" src="https://alishop.in.ua/image/cache/catalog/image/cache/catalog/easyphoto/1179/candy-king-on-salt-lemon-drops-1-1000x1000.webp">
+            <aside class="promo">
+        <h3>Акція!</h3>
+        <p>При замовленні від 500 грн — усі пачки з цукерок Yummy Gummy roshen у подарунок!</p>
+    </aside>
+        </footer>
+    </body>
+</html>
+
